@@ -18,7 +18,7 @@
 
 <p>Now if you want to convert your HTML to WordPress theme then you might need an expert. But here you will face another problem, that is who should you choose for your new WordPress Theme?</p>
 
-<figure class="wp-block-image size-large"><a href="https://psdtowp.dev/html-to-wordpress/" target="_blank" rel="noreferrer noopener"><img src="https://psdtowpservice.net/wp-content/uploads/2020/01/HTML-to-WordPress-1-1024x800.jpg" alt="HTML to WordPress" class="wp-image-715"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://psdtowp.dev/html-to-wordpress/" target="_blank" rel="noreferrer noopener"><img src="https://psdtowp.dev/wp-content/uploads/2020/01/html-to-wordpress.jpg" alt="HTML to WordPress" class="wp-image-715"/></a></figure>
 
 <p>So, here is <a href="https://psdtowp.dev">PSDtoPWService</a>.net give you the best facility and cheap price for create a WordPress theme from your static HTML template.</p>
 
