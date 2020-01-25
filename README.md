@@ -20,7 +20,7 @@
 
 <figure class="wp-block-image size-large"><a href="https://psdtowp.dev/html-to-wordpress/" target="_blank" rel="noreferrer noopener"><img src="https://psdtowp.dev/wp-content/uploads/2020/01/html-to-wordpress.jpg" alt="HTML to WordPress" class="wp-image-715"/></a></figure>
 
-<p>So, here is <a href="https://psdtowp.dev">PSDtoPWService</a>.net give you the best facility and cheap price for create a WordPress theme from your static HTML template.</p>
+<p>So, here is <a href="https://psdtowp.dev">PSD to WordPress Service</a>.net give you the best facility and cheap price for create a WordPress theme from your static HTML template.</p>
 
 <h3 class="mb10">Why Choose Us Over the Others?</h3>
 
